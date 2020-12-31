@@ -1,0 +1,200 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/error404/Downloads/a8q2-set/mix3.c",
+		"/C/Users/error404/Downloads/a8q2-set/mix2.c",
+		"/C/Users/error404/Downloads/a8q2-set/mix1.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/intersect_all.expect",
+		"/C/Users/error404/Downloads/a8q2-set/union_both.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/union_both.expect",
+		"/C/Users/error404/Downloads/a8q2-set/assert.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/union_distinct.expect",
+		"/C/Users/error404/Downloads/a8q2-set/union_distinct.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/intersect_empty.expect",
+		"/C/Users/error404/Downloads/a8q2-set/intersect_empty.c",
+		"/C/Users/error404/Downloads/a8q2-set/remove_in.c",
+		"/C/Users/error404/Downloads/a8q2-set/intersect_all.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/intersect_both.expect",
+		"/C/Users/error404/Downloads/a8q2-set/intersect_both.c",
+		"/C/Users/error404/Downloads/a8q2-set/remove_not.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/union_all.expect",
+		"/C/Users/error404/Downloads/a8q2-set/union_all.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/remove_not.expect",
+		"/C/Users/error404/Downloads/a8q2-set/tests/remove_in.expect",
+		"/C/Users/error404/Downloads/a8q2-set/tests/add_one.expect",
+		"/C/Users/error404/Downloads/a8q2-set/add_one.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/set_same.expect",
+		"/C/Users/error404/Downloads/a8q2-set/set_same.c",
+		"/C/Users/error404/Downloads/a8q2-set/tests/add_distinct.expect",
+		"/C/Users/error404/Downloads/a8q2-set/add_distinct.c",
+		"/C/Users/error404/Downloads/a8q2-set/set_element_in.c",
+		"/C/Users/error404/Downloads/a8q2-set/set_element.c",
+		"/C/Users/error404/Downloads/a8q2-set/create.c",
+		"/C/Users/error404/Documents/GitHub/coursera/mod2_solution/style.css",
+		"/C/Users/error404/Documents/GitHub/coursera/mod2_solution/index.html",
+		"/C/Users/error404/Documents/GitHub/coursera/mod2_solution/index"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

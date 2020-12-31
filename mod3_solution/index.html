@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>华师一学生食堂</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+  </head>
+<body>
+  <header>
+    <nav id="header-nav" class="navbar navbar-default">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="index.html" class="pull-left visible-md visible-lg">
+            <div id="logo-img"></div>
+          </a>
+
+          <div class="navbar-brand">
+            <a href="index.html"><h1>华师一学生食堂</h1></a>
+          </div>
+
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        
+        <div id="collapsable-nav" class="collapse navbar-collapse">
+           <ul id="nav-list" class="nav navbar-nav navbar-right">
+            <li>
+              <a href="menu-categories.html">
+                <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs"> 早餐</a>
+            </li>
+            <li>
+              <a href="menu2.html">
+                <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs"> 中晚餐</a>
+            </li>
+            <li id="phone" class="hidden-xs">
+              <a href="tel:1231231234">
+                <span>送餐热线：12312341234</span></a>
+            </li>
+          </ul><!-- #nav-list -->
+        </div><!-- .collapse .navbar-collapse -->
+      </div><!-- .container -->
+    </nav><!-- #header-nav -->
+  </header>
+
+  <div id="call-btn" class="visible-xs">
+    <a class="btn" href="tel:1231231234">
+    <span class="glyphicon glyphicon-earphone"></span>
+    送餐热线：12312341234
+    </a>
+  </div>
+
+  <div id="main-content" class="container">
+    <div class="jumbotron">
+      <img src="images/jumbotron.jpg" alt="Picture of restaurant" class="img-responsive visible-xs">
+    </div>
+
+    <div id="home-tiles" class="row">
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <a href="menu-categories.html"><div id="menu-tile"><span>早餐</span></div></a>
+      </div>
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <a href="single-category.html"><div id="specials-tile"><span>中晚餐</span></div></a>
+      </div>
+      <div class="col-md-4 col-sm-12 col-xs-12">
+        <a href="https://www.google.com/maps/place/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E9%99%84%E5%B1%9E%E4%B8%AD%E5%AD%A6/@30.505394,114.382356,15z/data=!4m5!3m4!1s0x0:0x86da09c058ad6ec3!8m2!3d30.505394!4d114.382356" target="_blank">
+          <div id="map-tile">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13750.212624290574!2d114.382356!3d30.505394!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86da09c058ad6ec3!2z5Y2O5Lit5biI6IyD5aSn5a2m56ys5LiA6ZmE5bGe5Lit5a2m!5e0!3m2!1sen!2sca!4v1609273167410!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <span>地图</span>
+          </div>
+        </a>
+      </div>
+    </div><!-- End of #home-tiles -->
+  </div><!-- End of #main-content -->
+
+  <footer class="panel-footer">
+    <div class="container">
+      <div class="row">
+        <section id="hours" class="col-sm-4">
+          <span>营业时间:</span><br>
+          周一至周五: 6：30am - 8：30pm<br>
+          周六周日: 7：00am - 6：30pm<br>
+          <hr class="visible-xs">
+        </section>
+        <section id="address" class="col-sm-4">
+          <span>地址:</span><br>
+          湖北省武汉市洪山区<br>
+          大学园路特一号
+          <hr class="visible-xs">
+        </section>
+        <section id="testimonials" class="col-sm-4">
+          <p></p>
+          <p>"最爱三鲜面！总期待能多几个鱼丸..."</p>
+          <p>"敲喜欢蒸卤的糖醋里脊和香肠！（*/w\*）"</p>
+          <p>"六元套餐都很好吃~"</p>
+        </section>
+      </div>
+      <div class="text-center">&copy; Copyright No.1 Middle School Affiliated to CCNU 2021</div>
+    </div>
+  </footer>
+
+  <!-- jQuery (Bootstrap JS plugins depend on it) -->
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
